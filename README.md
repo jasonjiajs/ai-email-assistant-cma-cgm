@@ -1,56 +1,30 @@
----
-layout: page
-title: AI-Powered Email Assistant for CMA CGM
-description: We built CMA CGM's AI-powered email assistant that generates recommended replies for over 100k weekly customer emails.
-img: assets/img/ai_email_assistant_cma_cgm_cover.png
-importance: 3
-category: Highlights
----
+# AI-Powered Email Assistant for CMA CGM
 
-Project Report, MIT 15.572 - Analytics Lab <br>
+Project Report, MIT 15.572 - Analytics Lab
 Host Company: CMA CGM
 
-*This project won 3rd place at the MIT Initiative on the Digital Economy's Analytics Lab Event.* 
+*This project won [3rd place](https://www.linkedin.com/feed/update/urn:li:activity:7136750869575819265/) at the MIT Initiative on the Digital Economy's Analytics Lab Event.*
 
 ## Team
 
-Team Members:
-[Jason Jia](https://www.linkedin.com/in/jasonjiajs/),
-[Maxime Wolf](https://www.linkedin.com/in/maxime-wolf/),
-[Raghav Jayanthi](https://www.linkedin.com/in/rrmj/),
-[Nuobei Zhang](https://www.linkedin.com/in/nuobeizhang/),
-[Juan Pablo Armas](https://www.linkedin.com/in/juan-pablo-armas-saenz-127142105/) <br>
-CMA CGM Leadership Team:
-[Vijay Krishnan](https://www.linkedin.com/in/vijaymit/),
-[Abhinav Nippani](https://www.linkedin.com/in/abhinav-nippani/),
-[Noe Mikati](https://www.linkedin.com/in/noemikati/),
-[Rafaela Nunes](https://www.linkedin.com/in/rafaela-nunes-81062410a/)<br>
-Project Mentor:
-[Jeremy Toledano](https://www.linkedin.com/in/jeremytoledano/)
+Team Members: [Jason Jia](https://www.linkedin.com/in/jasonjiajs/), [Maxime Wolf](https://www.linkedin.com/in/maxime-wolf/), [Raghav Jayanthi](https://www.linkedin.com/in/rrmj/), [Nuobei Zhang](https://www.linkedin.com/in/nuobeizhang/), [Juan Pablo Armas](https://www.linkedin.com/in/juan-pablo-armas-saenz-127142105/)
+
+CMA CGM Leadership Team: [Vijay Krishnan](https://www.linkedin.com/in/vijaymit/),
+[Abhinav Nippani](https://www.linkedin.com/in/abhinav-nippani/), [Noe Mikati](https://www.linkedin.com/in/noemikati/), [Rafaela Nunes](https://www.linkedin.com/in/rafaela-nunes-81062410a/)
+
+Project Mentor: [Jeremy Toledano](https://www.linkedin.com/in/jeremytoledano/)
 
 ## Summary
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ai_email_assistant_cma_cgm/summary_slide.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    A summary of the key features and benefits of the AI-powered email assistant
-</div>
+We built CMA CGM's AI-powered email assistant that generates recommended replies for over 100k weekly customer emails.
+
+<img src="summary_slide_compressed.png">
 
 ## Problem and Solution
 
 CMA CGM is the largest shipping company in the United States and handles more than 100k emails a week. However, they are currently processed manually by customer agents. We thus built an AI email assistant that generates recommended replies to emails based on the task to be completed and further input from the customer agent.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ai_email_assistant_cma_cgm/problem_and_solution_slide.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Problem and Solution
-</div>
+<img src="problem_and_solution_slide.png">
 
 ## Integrated Processing Pipeline
 
@@ -58,27 +32,14 @@ This email assistant leverages both technical tools such as LLMs and NLP as well
 
 A full view of the integrated processing pipeline is shown below:
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ai_email_assistant_cma_cgm/processing_pipeline_slide.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Integrated processing pipeline
-</div>
+<img src="processing_pipeline_slide.png">
+
 
 ## User-friendly web interface
 
 We also built a user-friendly web interface that customer care agents can interact with. The interface not only generates recommended replies to emails, but also provides an option for the customer agent to correct any misidentified categories, enabling more accurate responses.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ai_email_assistant_cma_cgm/web_interface_slide.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Landing page of the web interface
-</div>
+<img src="web_interface_slide.png">
 
 ## Impacts
 
@@ -96,14 +57,7 @@ On the other hand, an AI email assistant adopts a different approach because it 
 
 That’s why with full support from the CMA CGM team, we made a strategic pivot to an email assistant, and we are proud to say that we have built a tool that seeks to augment, not replace humans.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ai_email_assistant_cma_cgm/impact_slide.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Quantitative and strategic impacts
-</div>
+<img src="impact_slide.png">
 
 ## Conclusion
 
