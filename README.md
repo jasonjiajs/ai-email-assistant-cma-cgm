@@ -18,13 +18,13 @@ Project Mentor: [Jeremy Toledano](https://www.linkedin.com/in/jeremytoledano/)
 
 We built CMA CGM's AI-powered email assistant that generates recommended replies for over 100k weekly customer emails.
 
-<img src="summary_slide_compressed.png">
+<img width="2880" height="1612" alt="summary_slide" src="https://github.com/user-attachments/assets/a4fa6543-f3fe-4e8b-a1fa-e3f157b2766c" />
 
 ## Problem and Solution
 
 CMA CGM is the largest shipping company in the United States and handles more than 100k emails a week. However, they are currently processed manually by customer agents. We thus built an AI email assistant that generates recommended replies to emails based on the task to be completed and further input from the customer agent.
 
-<img src="problem_and_solution_slide.png">
+<img width="1440" height="809" alt="problem_and_solution_slide" src="https://github.com/user-attachments/assets/ccc054aa-73ad-4fed-a5a3-eaa4b4f1f487" />
 
 ## Integrated Processing Pipeline
 
@@ -32,14 +32,14 @@ This email assistant leverages both technical tools such as LLMs and NLP as well
 
 A full view of the integrated processing pipeline is shown below:
 
-<img src="processing_pipeline_slide.png">
+<img width="1440" height="813" alt="processing_pipeline_slide" src="https://github.com/user-attachments/assets/3262119b-2827-4a7a-b69e-b24c396c9265" />
 
 
 ## User-friendly web interface
 
 We also built a user-friendly web interface that customer care agents can interact with. The interface not only generates recommended replies to emails, but also provides an option for the customer agent to correct any misidentified categories, enabling more accurate responses.
 
-<img src="web_interface_slide.png">
+<img width="1440" height="814" alt="web_interface_slide" src="https://github.com/user-attachments/assets/5547cfcb-039b-4c5d-a489-aad95afb566d" />
 
 ## Impacts
 
@@ -57,7 +57,7 @@ On the other hand, an AI email assistant adopts a different approach because it 
 
 That’s why with full support from the CMA CGM team, we made a strategic pivot to an email assistant, and we are proud to say that we have built a tool that seeks to augment, not replace humans.
 
-<img src="impact_slide.png">
+<img width="1440" height="811" alt="impact_slide" src="https://github.com/user-attachments/assets/19b20862-b5e0-4999-9f8b-8d3032a5bb25" />
 
 ## Conclusion
 
